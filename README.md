@@ -12,7 +12,7 @@
     <p>My name is Alicia</p>
     <p>I am a 14 year old student in <a href="dunmanhigh.moe.edu.sg">Dunman High School</a>, Singapore</p>
     <h2>Interests</h2>
-    <p>I am interested in <a href="http://www.maplesea.com/">gaming, photo editing and eating.</p>
+    <p>I am interested in <a href="http://www.maplesea.com/">gaming.</p>
     <h2>Projects</h2>
     <p> I am a Google Code-in 2016 participant with <a href="http://fossasia.org">FOSSASIA</a></p>
     
